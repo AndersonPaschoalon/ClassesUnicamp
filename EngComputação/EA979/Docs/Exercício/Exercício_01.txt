@@ -1,0 +1,13 @@
+#
+# Exercício 01
+#
+
+1. Acesse a pasta local (seu computador), onde o repositório lrittner/ea979 foi clonado;
+2. Inicie o jupyter notebook, digitando no terminal:
+- jupyter notebook
+2. Acesse a pasta 1S2020 e abra o notebook '00 Capa e Indice'
+3. Selecione o notebook do primeiro exercício: Exercício 1 Aprendendo Numpy.ipynb
+4. Crie uma cópia do notebook. Renomeie o notebook com o seguinte formato:
+- EA979A_Ex01_NomeSobrenome.ipynb
+5. Edite o notebook realizando o exercício e salvando.
+6. Anexe seu notebook (arquivo .ipynb) na Entrega de Tarefas. Não anexe links ou arquivo em outros formatos (.pdf, .png, etc)
